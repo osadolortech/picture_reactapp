@@ -3,6 +3,10 @@
      padding: 0;
  }
 
+ h4{
+     margin-left: 650px;
+ }
+
  .nav_container{
      display: flex;
      justify-content: space-between;
@@ -146,6 +150,10 @@ img{
         font-size: 20px;
         box-shadow: 0 1px 0 burlywood inset;
         color: aliceblue;
+    }
+
+    h4{
+        margin-left: 350px;
     }
 
 
