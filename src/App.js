@@ -114,7 +114,7 @@ let imagesearch = item.filter(user=>{
                         <a href="#Gallary">Gallary</a>
                         <a href="#Contacts">Contacts</a>
                         <a href="#About">About</a>
-                    <input type="text" placeholder="type to seach" value={photo} onChange={filter.bind(this)} />
+                    <input className="input" type="text" placeholder="type to seach" value={photo} onChange={filter.bind(this)} />
                     </nav>
                 </div>
             </header>
